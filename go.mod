@@ -1,4 +1,4 @@
-module github.com/gopkg-utils/serialport
+module github.com/go-pkg-utils/serialport
 
 go 1.18
 
